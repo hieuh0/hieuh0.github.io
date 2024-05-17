@@ -1,0 +1,810 @@
+{
+  "action": {
+    "actions": [
+      [
+        {
+          "action": "CLICK_RANDOM_VIDEO",
+          "description": "scroll youtube",
+          "keyword_random": [
+            "testing app",
+            "software testing",
+            "app testing",
+            "testing vtechys",
+            "automation testing vtechys",
+            "selenium testing app",
+            "appium testing data"
+          ],
+          "number_of_reruns_action": 2,
+          "time_delay": 6,
+          "viewing_time": "10|20"
+        },
+        {
+          "action": "CLICK_SHORTS",
+          "description": "click short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 4,
+          "time_delay": 6
+        },
+        {
+          "action": "SCROLL_SHORTS",
+          "description": "scroll short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 8,
+          "time_delay": 8
+        },
+        {
+          "action": "SEARCH_VIDEO_BY_KEYWORD",
+          "description": "send key work",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_ITEM_SEARCH",
+          "text_search": "Automation Testing By Vtechys",
+          "time_delay": 6,
+          "viewing_time": "30|60"
+        },
+        {
+          "action": "CLICK_RANDOM_VIDEO_IN_WATCH_LIST",
+          "chanel_name": "TUNG DUONG OFFICIAL",
+          "description": "CLICK random item in tab video",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        }
+      ],
+      [
+        {
+          "action": "CLICK_RANDOM_VIDEO",
+          "description": "scroll youtube",
+          "keyword_random": [
+            "testing app",
+            "software testing",
+            "app testing",
+            "automation testing vtechys",
+            "testing vtechys",
+            "selenium testing app",
+            "appium testing data"
+          ],
+          "number_of_reruns_action": 2,
+          "time_delay": 6,
+          "viewing_time": "10|20"
+        },
+        {
+          "action": "CLICK_SHORTS",
+          "description": "click short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 4,
+          "time_delay": 6
+        },
+        {
+          "action": "SCROLL_SHORTS",
+          "description": "scroll short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 8,
+          "time_delay": 8
+        },
+        {
+          "action": "SEARCH_VIDEO_BY_KEYWORD",
+          "description": "send key work",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_ITEM_SEARCH",
+          "text_search": "Automation Testing By Vtechys",
+          "time_delay": 6,
+          "viewing_time": "30|60"
+        },
+        {
+          "action": "VIEW_CHANEL",
+          "chanel_name": "Vtechys",
+          "description": "VIEW_CHANEL",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        },
+        {
+          "action": "CLICK_RANDOM_VIDEO_CHANEL_IN_TAB_VIDEO",
+          "chanel_name": "Vtechys",
+          "description": "VIEW_CHANEL",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        }
+      ],
+      [
+        {
+          "action": "CLICK_SHORTS",
+          "description": "click short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 4,
+          "time_delay": 6
+        },
+        {
+          "action": "SCROLL_SHORTS",
+          "description": "scroll short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 8,
+          "time_delay": 8
+        },
+        {
+          "action": "SEARCH_VIDEO_BY_KEYWORD",
+          "description": "send key work",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_ITEM_SEARCH",
+          "text_search": "Automation Testing By Vtechys",
+          "time_delay": 6,
+          "viewing_time": "30|60"
+        },
+        {
+          "action": "VIEW_CHANEL",
+          "chanel_name": "Vtechys",
+          "description": "VIEW_CHANEL",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        },
+        {
+          "action": "CLICK_RANDOM_VIDEO_CHANEL_IN_TAB_VIDEO",
+          "chanel_name": "Vtechys",
+          "description": "VIEW_CHANEL",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        },
+        {
+          "action": "CLICK_RANDOM_VIDEO",
+          "description": "scroll youtube",
+          "keyword_random": [
+            "testing app",
+            "software testing",
+            "app testing",
+            "automation testing vtechys",
+            "testing vtechys",
+            "selenium testing app",
+            "appium testing data"
+          ],
+          "number_of_reruns_action": 2,
+          "time_delay": 6,
+          "viewing_time": "10|20"
+        }
+      ],
+      [
+        {
+          "action": "CLICK_SHORTS",
+          "description": "click short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 4,
+          "time_delay": 6
+        },
+        {
+          "action": "SCROLL_SHORTS",
+          "description": "scroll short video",
+          "next_action": "CLICK_BUTTON_HOME",
+          "number_of_reruns_action": 8,
+          "time_delay": 8
+        },
+        {
+          "action": "SEARCH_VIDEO_BY_KEYWORD",
+          "description": "send key work",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_ITEM_SEARCH",
+          "text_search": "Automation Testing By Vtechys",
+          "time_delay": 6,
+          "viewing_time": "30|60"
+        },
+        {
+          "action": "CLICK_RANDOM_VIDEO_IN_WATCH_LIST",
+          "chanel_name": "TUNG DUONG OFFICIAL",
+          "description": "CLICK random item in tab video",
+          "keyword": "Automation Testing By Vtechys",
+          "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
+          "time_delay": 100,
+          "viewing_time": "20|60"
+        }
+      ]
+    ],
+    "numRepeatAction": 10000
+  },
+  "devices": {
+    "default-1715239465294": 0,
+    "default-1715242532620": 0,
+    "default-1715244100202": 0,
+    "default-1715313124279": {
+      "step": 1,
+      "time": "2024-05-14 17:50:34"
+    },
+    "default-NX709S": 0,
+    "default-SM-G975F - 1715734597487": {
+      "step": 1,
+      "time": "2024-05-17 12:11:23"
+    },
+    "default-moto g power - 1715929488355": 0,
+    "device-21": {
+      "step": 445,
+      "time": "2024-05-08 13:42:13"
+    },
+    "device-283": {
+      "step": 25,
+      "time": "2024-05-07 05:37:50"
+    }
+  },
+  "yLocation": [
+    {
+      "latitude": 43.83773098375925,
+      "longitude": -79.53391930217346
+    },
+    {
+      "latitude": 43.704224715006234,
+      "longitude": -79.51883710793759
+    },
+    {
+      "latitude": 43.83176849221581,
+      "longitude": -79.58276747053084
+    },
+    {
+      "latitude": 43.73784234545776,
+      "longitude": -79.71734125299392
+    },
+    {
+      "latitude": 43.86347003318948,
+      "longitude": -79.67779161463153
+    },
+    {
+      "latitude": 43.8903169532734,
+      "longitude": -79.63515335779009
+    },
+    {
+      "latitude": 43.89896191923191,
+      "longitude": -79.25557110438984
+    },
+    {
+      "latitude": 43.76913398346745,
+      "longitude": -79.4067425562427
+    },
+    {
+      "latitude": 43.806575282131526,
+      "longitude": -79.46074454140891
+    },
+    {
+      "latitude": 43.820936194799984,
+      "longitude": -79.4364073027562
+    },
+    {
+      "latitude": 43.82163518047168,
+      "longitude": -79.36991869382982
+    },
+    {
+      "latitude": 43.81603657847616,
+      "longitude": -79.3699322942068
+    },
+    {
+      "latitude": 43.830212084447716,
+      "longitude": -79.33212730748936
+    },
+    {
+      "latitude": 43.88301273160233,
+      "longitude": -79.24718300111056
+    },
+    {
+      "latitude": 43.90011509711745,
+      "longitude": -79.28804169145097
+    },
+    {
+      "latitude": 43.89378130971722,
+      "longitude": -79.3125781557582
+    },
+    {
+      "latitude": 43.87063177362954,
+      "longitude": -79.15457078990487
+    },
+    {
+      "latitude": 43.8708040525955,
+      "longitude": -79.18286643534451
+    },
+    {
+      "latitude": 43.82394827479097,
+      "longitude": -79.10424939135056
+    },
+    {
+      "latitude": 43.78069342135398,
+      "longitude": -79.21324399725499
+    },
+    {
+      "latitude": 43.76525975144721,
+      "longitude": -79.21703413894836
+    },
+    {
+      "latitude": 43.73800710707564,
+      "longitude": -79.26876393915707
+    },
+    {
+      "latitude": 43.718329161130214,
+      "longitude": -79.35973449240983
+    },
+    {
+      "latitude": 43.69205169823761,
+      "longitude": -79.4221582778372
+    },
+    {
+      "latitude": 43.692375384341176,
+      "longitude": -79.42489162958324
+    },
+    {
+      "latitude": 43.69245874362991,
+      "longitude": -79.42774701910848
+    },
+    {
+      "latitude": 43.701305109347096,
+      "longitude": -79.44278371223054
+    },
+    {
+      "latitude": 43.69453805464302,
+      "longitude": -79.42732648138971
+    },
+    {
+      "latitude": 43.697710813127955,
+      "longitude": -79.42986985190103
+    },
+    {
+      "latitude": 43.697328333063155,
+      "longitude": -79.43495000061961
+    },
+    {
+      "latitude": 43.6970782262532,
+      "longitude": -79.43605554999706
+    },
+    {
+      "latitude": 43.698706261258096,
+      "longitude": -79.43844972145115
+    },
+    {
+      "latitude": 43.699956660482606,
+      "longitude": -79.43998933260083
+    },
+    {
+      "latitude": 43.70305068533948,
+      "longitude": -79.44538139487065
+    },
+    {
+      "latitude": 43.70490028976843,
+      "longitude": -79.43745347897485
+    },
+    {
+      "latitude": 43.70718510193413,
+      "longitude": -79.43537128440298
+    },
+    {
+      "latitude": 43.70871038759631,
+      "longitude": -79.43173067450913
+    },
+    {
+      "latitude": 43.709543871319454,
+      "longitude": -79.4321376809629
+    },
+    {
+      "latitude": 43.61260990533525,
+      "longitude": -79.55114757567092
+    },
+    {
+      "latitude": 43.61101735859173,
+      "longitude": -79.56490331673417
+    },
+    {
+      "latitude": 43.62055786085139,
+      "longitude": -79.55370347189518
+    },
+    {
+      "latitude": 43.62100830546553,
+      "longitude": -79.54710325826626
+    },
+    {
+      "latitude": 43.61347860344146,
+      "longitude": -79.51464578554673
+    },
+    {
+      "latitude": 43.61853255946098,
+      "longitude": -79.50199841469566
+    },
+    {
+      "latitude": 43.6186211753543,
+      "longitude": -79.50160765383421
+    },
+    {
+      "latitude": 43.61816815284116,
+      "longitude": -79.50115425150923
+    },
+    {
+      "latitude": 43.61814984951242,
+      "longitude": -79.50126967648474
+    },
+    {
+      "latitude": 43.617964740706896,
+      "longitude": -79.50061115266512
+    },
+    {
+      "latitude": 43.618172598042186,
+      "longitude": -79.49940907956241
+    },
+    {
+      "latitude": 43.61685860446387,
+      "longitude": -79.49724277085896
+    },
+    {
+      "latitude": 43.61533228751192,
+      "longitude": -79.49383384366669
+    },
+    {
+      "latitude": 43.85778802073237,
+      "longitude": -79.34408208317026
+    },
+    {
+      "latitude": 43.87650361455545,
+      "longitude": -79.35378465765957
+    },
+    {
+      "latitude": 43.6141425400227,
+      "longitude": -79.49034665729809
+    },
+    {
+      "latitude": 43.61402868727642,
+      "longitude": -79.48947670727253
+    },
+    {
+      "latitude": 43.612799709976834,
+      "longitude": -79.48746260348597
+    },
+    {
+      "latitude": 43.795019237550626,
+      "longitude": -79.31707256342372
+    },
+    {
+      "latitude": 43.79698894185268,
+      "longitude": -79.31673547841639
+    },
+    {
+      "latitude": 43.79980211593373,
+      "longitude": -79.31608619372533
+    },
+    {
+      "latitude": 43.61367126814181,
+      "longitude": -79.48269283038313
+    },
+    {
+      "latitude": 43.87729254645564,
+      "longitude": -79.3543277849225
+    },
+    {
+      "latitude": 43.7944540625799,
+      "longitude": -79.3161715239911
+    },
+    {
+      "latitude": 43.852679727118044,
+      "longitude": -79.38881245167457
+    },
+    {
+      "latitude": 43.87404086986674,
+      "longitude": -79.41038579527354
+    },
+    {
+      "latitude": 43.86223222808458,
+      "longitude": -79.42730927764906
+    },
+    {
+      "latitude": 43.87758130603828,
+      "longitude": -79.40588246770663
+    },
+    {
+      "latitude": 43.85816076946512,
+      "longitude": -79.34627424566983
+    },
+    {
+      "latitude": 43.83232475919499,
+      "longitude": -79.3437094087562
+    },
+    {
+      "latitude": 43.81976036530162,
+      "longitude": -79.30800808956941
+    },
+    {
+      "latitude": 43.79211160397228,
+      "longitude": -79.31668155461621
+    },
+    {
+      "latitude": 43.67756003836551,
+      "longitude": -79.58675712853973
+    },
+    {
+      "latitude": 43.78017836076556,
+      "longitude": -79.29533993587505
+    },
+    {
+      "latitude": 43.8012972509974,
+      "longitude": -79.33092212322215
+    },
+    {
+      "latitude": 43.81182917310025,
+      "longitude": -79.28228850799454
+    },
+    {
+      "latitude": 43.824056399846306,
+      "longitude": -79.26885454898763
+    },
+    {
+      "latitude": 43.827325135848625,
+      "longitude": -79.25629126384095
+    },
+    {
+      "latitude": 43.831571033505796,
+      "longitude": -79.33177645551324
+    },
+    {
+      "latitude": 43.601080950648125,
+      "longitude": -79.51897789598198
+    },
+    {
+      "latitude": 43.59845303129109,
+      "longitude": -79.54131484650343
+    },
+    {
+      "latitude": 43.61406065968564,
+      "longitude": -79.54298481225788
+    },
+    {
+      "latitude": 43.65528533899673,
+      "longitude": -79.55799560525692
+    },
+    {
+      "latitude": 43.663598023991405,
+      "longitude": -79.56933254035276
+    },
+    {
+      "latitude": 43.667242347372145,
+      "longitude": -79.55952877045353
+    },
+    {
+      "latitude": 43.664663486047964,
+      "longitude": -79.58291003242554
+    },
+    {
+      "latitude": 43.62789612370639,
+      "longitude": -79.5440442850835
+    },
+    {
+      "latitude": 43.637363550653724,
+      "longitude": -79.55336022278861
+    },
+    {
+      "latitude": 43.64872199247713,
+      "longitude": -79.55813546819009
+    },
+    {
+      "latitude": 43.65585512559828,
+      "longitude": -79.55873290346787
+    },
+    {
+      "latitude": 43.61799956096559,
+      "longitude": -79.54101458153156
+    },
+    {
+      "latitude": 43.615826662595516,
+      "longitude": -79.55001745893456
+    },
+    {
+      "latitude": 43.62026412268484,
+      "longitude": -79.54928947787442
+    },
+    {
+      "latitude": 43.61204869454425,
+      "longitude": -79.54372398696611
+    },
+    {
+      "latitude": 43.6123844605955,
+      "longitude": -79.54250867199734
+    },
+    {
+      "latitude": 43.6119271325197,
+      "longitude": -79.54184105118344
+    },
+    {
+      "latitude": 43.609963559190355,
+      "longitude": -79.52456116264105
+    },
+    {
+      "latitude": 43.609435608321895,
+      "longitude": -79.5362707742466
+    },
+    {
+      "latitude": 43.61006592745623,
+      "longitude": -79.53644721854639
+    },
+    {
+      "latitude": 43.611739000492626,
+      "longitude": -79.54338017407414
+    },
+    {
+      "latitude": 43.61014990610831,
+      "longitude": -79.54008206539687
+    },
+    {
+      "latitude": 43.61047120653244,
+      "longitude": -79.54106549419522
+    },
+    {
+      "latitude": 43.61067382354874,
+      "longitude": -79.54176909086003
+    },
+    {
+      "latitude": 43.61038196480164,
+      "longitude": -79.53796367732637
+    },
+    {
+      "latitude": 43.61100029506548,
+      "longitude": -79.53686328272663
+    },
+    {
+      "latitude": 43.60911817848236,
+      "longitude": -79.53426770265027
+    },
+    {
+      "latitude": 43.60867173636975,
+      "longitude": -79.53269329750009
+    },
+    {
+      "latitude": 43.8006993719392,
+      "longitude": -79.31733645929313
+    },
+    {
+      "latitude": 43.80208746600182,
+      "longitude": -79.31682878845393
+    },
+    {
+      "latitude": 43.8037390852687,
+      "longitude": -79.32234699346265
+    },
+    {
+      "latitude": 43.80409562794002,
+      "longitude": -79.32434718781181
+    },
+    {
+      "latitude": 43.80284130467759,
+      "longitude": -79.32671650633723
+    },
+    {
+      "latitude": 43.80202426425521,
+      "longitude": -79.32765626776084
+    },
+    {
+      "latitude": 43.816220125849895,
+      "longitude": -79.33479048139041
+    },
+    {
+      "latitude": 43.8063422985254,
+      "longitude": -79.28470981772033
+    },
+    {
+      "latitude": 43.807398689212995,
+      "longitude": -79.28930429993292
+    },
+    {
+      "latitude": 43.80623043508886,
+      "longitude": -79.28210342139451
+    },
+    {
+      "latitude": 43.746382094679745,
+      "longitude": -79.62392765654683
+    },
+    {
+      "latitude": 43.64435598909213,
+      "longitude": -79.53915915845265
+    },
+    {
+      "latitude": 43.64288142581687,
+      "longitude": -79.53942914874638
+    },
+    {
+      "latitude": 43.642629879680925,
+      "longitude": -79.53918174822212
+    },
+    {
+      "latitude": 43.64268335647779,
+      "longitude": -79.54070539996475
+    },
+    {
+      "latitude": 46.7962705426396,
+      "longitude": -71.30283441036111
+    },
+    {
+      "latitude": 46.79723773216904,
+      "longitude": -71.30611666250594
+    },
+    {
+      "latitude": 46.797431216072845,
+      "longitude": -71.30609493098113
+    },
+    {
+      "latitude": 46.796881672439916,
+      "longitude": -71.30848250619067
+    },
+    {
+      "latitude": 46.79945250065888,
+      "longitude": -71.30762973151327
+    },
+    {
+      "latitude": 46.79995805198684,
+      "longitude": -71.3057579199598
+    },
+    {
+      "latitude": 46.80021025919853,
+      "longitude": -71.3049382616613
+    },
+    {
+      "latitude": 46.800311388813,
+      "longitude": -71.30355696422014
+    },
+    {
+      "latitude": 46.80037221577442,
+      "longitude": -71.30308255453794
+    },
+    {
+      "latitude": 46.80032486281463,
+      "longitude": -71.30255119140676
+    },
+    {
+      "latitude": 46.801421576082234,
+      "longitude": -71.30217677029388
+    },
+    {
+      "latitude": 46.802286569183046,
+      "longitude": -71.3060105819139
+    },
+    {
+      "latitude": 46.80247608171633,
+      "longitude": -71.30689747160018
+    },
+    {
+      "latitude": 46.80265784867482,
+      "longitude": -71.30953942766584
+    },
+    {
+      "latitude": 46.80192775789354,
+      "longitude": -71.31344726638241
+    },
+    {
+      "latitude": 46.801967436343,
+      "longitude": -71.31606356893634
+    },
+    {
+      "latitude": 46.80179445990447,
+      "longitude": -71.31882312812854
+    },
+    {
+      "latitude": 46.791581505528164,
+      "longitude": -71.32421767163709
+    },
+    {
+      "latitude": 46.77494871326544,
+      "longitude": -71.32616375117682
+    },
+    {
+      "latitude": 46.768213730973464,
+      "longitude": -71.33628342623473
+    },
+    {
+      "latitude": 46.76751692021096,
+      "longitude": -71.3371279116581
+    },
+    {
+      "latitude": 46.759849134149164,
+      "longitude": -71.33510150898697
+    },
+    {
+      "latitude": 46.73666151003745,
+      "longitude": -71.36710676362931
+    },
+    {
+      "latitude": 46.73907504682176,
+      "longitude": -71.39327539827504
+    }
+  ]
+}
