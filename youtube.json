@@ -37,6 +37,7 @@
           "description": "send key work",
           "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_ITEM_SEARCH",
+           "chanel_name": "VTraffic",
           "text_search": "Real Human Organic Traffic",
           "time_delay": 6,
           "viewing_time": "30|60"
@@ -87,6 +88,7 @@
           "description": "send key work",
           "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_ITEM_SEARCH",
+          "chanel_name": "VTraffic",
           "text_search": "Real Human Organic Traffic",
           "time_delay": 6,
           "viewing_time": "30|60"
@@ -130,6 +132,7 @@
           "description": "send key work",
           "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_ITEM_SEARCH",
+           "chanel_name": "VTraffic",
           "text_search": "Real Human Organic Traffic",
           "time_delay": 6,
           "viewing_time": "30|60"
