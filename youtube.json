@@ -95,7 +95,7 @@
           "action": "VIEW_CHANEL",
           "chanel_name": "VTraffic",
           "description": "VIEW_CHANEL",
-          "keyword": "Automation Testing By Vtechys",
+          "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
           "time_delay": 100,
           "viewing_time": "20|60"
@@ -147,7 +147,7 @@
           "action": "CLICK_RANDOM_VIDEO_CHANEL_IN_TAB_VIDEO",
           "chanel_name": "VTraffic",
           "description": "VIEW_CHANEL",
-          "keyword": "Automation Testing By Vtechys",
+          "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
           "time_delay": 100,
           "viewing_time": "20|60"
@@ -189,7 +189,7 @@
           "description": "send key work",
           "keyword": "Real Human Organic Traffic",
           "next_action": "CLICK_ITEM_SEARCH",
-          "text_search": "Automation Testing By Vtechys",
+          "text_search": "Real Human Organic Traffic",
           "time_delay": 6,
           "viewing_time": "30|60"
         },
