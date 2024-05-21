@@ -233,7 +233,7 @@
           "action": "CLICK_RANDOM_VIDEO_IN_WATCH_LIST",
           "chanel_name": "TUNG DUONG OFFICIAL",
           "description": "CLICK random item in tab video",
-          "keyword": "Real Human Organic Traffic",
+          "text_search": "Real Human Organic Traffic",
           "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
           "time_delay": 100,
           "viewing_time": "20|60"
