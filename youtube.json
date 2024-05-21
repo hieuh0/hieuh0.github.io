@@ -174,7 +174,7 @@
           "action": "CLICK_RANDOM_VIDEO_CHANEL_IN_TAB_VIDEO",
           "chanel_name": "VTraffic",
           "description": "VIEW_CHANEL",
-          "keyword": "Real Human Organic Traffic",
+            "text_search": "Real Human Organic Traffic",
           "next_action": "CLICK_RANDOM_VIDEO_IN_CHANEL",
           "time_delay": 100,
           "viewing_time": "20|60"
